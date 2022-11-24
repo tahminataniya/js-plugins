@@ -1,0 +1,43 @@
+/*Header CSS start*/
+header{
+	padding: 15px 0;
+	background-color: #0d0a22;
+}
+.c_navbar{
+	color: #ffffff;
+}
+.c_logo, .c_link{
+	color: #ffffff;
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+}
+.c_logo:hover, .c_link:hover{
+	color: #ffffff;
+	border-top: 1px solid #ffffff;
+	border-bottom: 1px solid #ffffff;
+}
+/*Header CSS end*/
+
+/*Title start*/
+.main{
+	padding: 10px 0;
+	background-color: #000000;
+}
+.main_title{
+	text-align: center;
+}
+.main_h1{
+	color: #ffffff;
+}
+/*Title end*/
+
+/*Content CSS start*/
+.title{
+	margin-top: 30px;
+	padding: 5px 0;
+	text-align: center;
+}
+.title_h1{
+	font-size: 30px;
+	color: #000000;
+}
