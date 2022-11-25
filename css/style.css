@@ -33,11 +33,20 @@ header{
 
 /*Content CSS start*/
 .title{
-	margin-top: 30px;
+	margin-bottom: 30px;
 	padding: 5px 0;
+	background-color: #3d5bc9;
 	text-align: center;
 }
 .title_h1{
 	font-size: 30px;
 	color: #000000;
+}
+.slick{
+	padding: 0 0 45px;
+}
+.wrapper{}
+.slick_img{}
+.slick_img img{
+	width: 100%;
 }
