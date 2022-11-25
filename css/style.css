@@ -45,8 +45,15 @@ header{
 .slick{
 	padding: 0 0 45px;
 }
-.wrapper{}
-.slick_img{}
+.wrapper{
+	margin: 50px 0;
+}
+.slick_img{
+	padding: 0 15px;
+}
 .slick_img img{
 	width: 100%;
+}
+.wrapper2{
+	margin: 50px 0;
 }
